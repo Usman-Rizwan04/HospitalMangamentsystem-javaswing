@@ -56,7 +56,6 @@ It provides GUI forms for managing doctors, patients, and accounts, all tied tog
 - **Gender**: VARCHAR
 - **BillStatus**: VARCHAR
 
-## Project Screenshots
 
 
 
